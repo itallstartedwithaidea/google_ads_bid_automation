@@ -25,7 +25,7 @@ const CONFIG = {
   
   // Email settings
   REPORT_EMAIL: 'john@itallstartedwithaidea.com',
-  REPORT_SUBJECT: 'Google Ads Bid Automation Report - FIXED',
+  REPORT_SUBJECT: 'Google Ads Bid Automation Report - V2',
   
   // Safety limits
   MAX_KEYWORDS_TO_ADJUST: 200,
